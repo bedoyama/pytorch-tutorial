@@ -1,0 +1,5 @@
+# Ignore contents inside the models directory
+data/*
+
+# Ignore contents inside the saved models directory
+saved/*
