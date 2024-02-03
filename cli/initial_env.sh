@@ -8,3 +8,6 @@ pip install nbformat nbconvert
 pip install --upgrade jupyter nbformat
 pip install jupytext
 jupytext --to notebook quickstart.py
+
+pip install matplotlib
+pip install pandas
