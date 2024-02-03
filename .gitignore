@@ -3,3 +3,5 @@ data/*
 
 # Ignore contents inside the saved models directory
 saved/*
+
+.ipynb_checkpoints/*
