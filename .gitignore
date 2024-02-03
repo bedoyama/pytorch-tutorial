@@ -5,3 +5,4 @@ data/*
 saved/*
 
 .ipynb_checkpoints/*
+**/.ipynb_checkpoints/*
